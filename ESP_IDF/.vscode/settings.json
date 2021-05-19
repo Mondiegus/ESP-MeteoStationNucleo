@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "adafruit_liquidcrystal.h": "c",
+        "freertos.h": "c",
+        "hd44780.h": "c",
+        "si7021.h": "c",
+        "thread": "c",
+        "esp_sleep.h": "c"
+    },
+    "idf.portWin": "COM6"
+}
